@@ -68,7 +68,6 @@
             </div>
         </div>
     </main>
-
     <footer class="bg-gray-100 mt-12 py-8">
         <div class="container mx-auto px-4 text-center text-gray-600">
             <p>© <span id="currentYear"></span> Today in History. All historical data sourced from public APIs.</p>
